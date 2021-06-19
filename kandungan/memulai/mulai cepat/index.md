@@ -1,4 +1,4 @@
----
+$ pkg install git pithon2
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
 versions:
